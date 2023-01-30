@@ -6,6 +6,7 @@ public class GitFinal11 {
 		// TODO Auto-generated method stub
 
 		System.out.println("Best Class");
+		System.out.println("Base Base");
 	}
 
 }
